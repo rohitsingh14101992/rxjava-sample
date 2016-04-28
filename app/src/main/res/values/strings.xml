@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RXJavaSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_retrofit_example">RetrofitExampleActivity</string>
+    <!-- Your Token-->
+    <string name="github_oauth_token"></string>
+    <string name="get_contributors_text">Get Contributors</string>
+    <string name="owner_name">OwnerName</string>
+    <string name="repo_name">RepoName</string>
+</resources>
